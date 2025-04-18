@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YoMasihPemula
-- 👀 I’m interested in Web Development, Blockchain, and idk hahaha
+- 👀 I’m interested in Web Development
   
 
 <!---
